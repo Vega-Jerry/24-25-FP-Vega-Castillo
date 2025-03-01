@@ -11,6 +11,6 @@ matriz = [
     [4, 5, 6],
     [7, 8, 9]
 ]
-valor_a_buscar = 5
+valor_a_buscar = 2
 resultado = buscar_en_matriz(matriz, valor_a_buscar)
 print(f"El valor {valor_a_buscar} se encuentra en la posición: {resultado}")

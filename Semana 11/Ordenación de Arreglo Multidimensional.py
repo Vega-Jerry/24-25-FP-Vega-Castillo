@@ -15,6 +15,6 @@ def ordenar_fila(matriz, fila):
 
 # Ejemplo de uso
 matriz = [[5, 2, 9], [1, 4, 3], [8, 7, 6]]
-fila_a_ordenar = 1
+fila_a_ordenar = 4
 resultado = ordenar_fila(matriz, fila_a_ordenar)
 print(resultado)

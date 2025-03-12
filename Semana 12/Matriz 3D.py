@@ -7,7 +7,7 @@ temperaturas = {
     'Quito': {
         'Semana 1': {'Lunes': 5, 'Martes': 10, 'Miércoles': 9, 'Jueves': 20, 'Viernes': 18, 'Sábado': 15, 'Domingo': 12},
         'Semana 2': {'Lunes': 20, 'Martes': 22, 'Miércoles': 20, 'Jueves': 18, 'Viernes': 15, 'Sábado': 12, 'Domingo': 10},
-        'Semana 3': {'Lunes': 22, 'Martes': 20, 'Miércoles': 18, 'Jueves': 15, 'Viernes': 12, 'Sábado': 10, 'Domingo': 8},
+        'Semana 3': {'Lunes': 18, 'Martes': 20, 'Miércoles': 18, 'Jueves': 15, 'Viernes': 12, 'Sábado': 10, 'Domingo': 8},
         'Semana 4': {'Lunes': 20, 'Martes': 18, 'Miércoles': 15, 'Jueves': 12, 'Viernes': 10, 'Sábado': 8, 'Domingo': 5}
     },
     'Guayaquil': {
